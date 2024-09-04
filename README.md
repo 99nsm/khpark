@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hyemin's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello&fontSize=90&animation=fadeIn&fontAlignY=38&desc=SangMin's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 #  Team_project : Khpark
 ---
@@ -179,11 +179,17 @@ create table a_order (
 );
 
 insert 하는 데이터는 테스트에 위치해 있음.
+
 AdateDaoTest   >> insertAdate 실행
+
 ArticleDaoTest >> insertArticle 실행
+
 AtimeDaoTest   >> insertAtime 실행
+
 CateDaoTest    >> insertCate 실행
+
 KeywordDaoTest >> insertKeyword 실행
+
 SeatDaoTest    >> insertseat 실행
 
 감사합니다 !
